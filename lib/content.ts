@@ -149,7 +149,20 @@ In practice, that means I'm comfortable moving between development and security:
 
 Beyond coding, I enjoy playing strategy and long-term games, as well as repairing and tinkering with technologies to refurbish and repurpose them for sale or my own use. I'm currently looking for internships, research roles, and early-career opportunities where I can contribute quickly while learning from strong engineering and security teams.`;
 
-export const ctfs = [
+export interface CTFWriteup {
+  title: string;
+  category: string;
+  link: string;
+}
+
+export interface CTF {
+  name: string;
+  date: string;
+  status: string;
+  writeups?: CTFWriteup[];
+}
+
+export const ctfs: CTF[] = [
   // Placeholder - user will provide content later
   // {
   //   name: "CTF Name",
