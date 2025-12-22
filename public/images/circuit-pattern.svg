@@ -1,0 +1,10 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="circuit" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="20" r="1.5" fill="#2DD4BF" opacity="0.2"/>
+      <path d="M 20 0 L 20 20 M 0 20 L 20 20" stroke="#2DD4BF" stroke-width="0.5" opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="200" height="200" fill="url(#circuit)"/>
+</svg>
+
