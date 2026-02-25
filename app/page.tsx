@@ -80,7 +80,7 @@ export default function Home() {
               View Projects
             </Link>
             <Link
-              href="/resume.pdf"
+              href="/JaimanSharmaResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-border text-text-primary font-medium rounded-lg hover:bg-highlight hover:border-accent/50 transition-all focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 focus:ring-offset-background"

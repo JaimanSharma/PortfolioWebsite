@@ -7,11 +7,11 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Jaiman Sharma | Cybersecurity + Software Engineering - Automation Focused",
   description:
-    "Bachelor of Computing (Honours) @ Queen's with focuses in (Cybersecurity + AI). Cloud Security Intern at Sectra (Summer 2025). I build reliable, automated systems and I like breaking them (responsibly) to understand risk.",
+    "Bachelor of Computing (Honours) @ Queen's with focuses in (Cybersecurity + AI). Cloud Security Intern at Sectra AB (Jun–Aug 2025, Mississauga, ON). I build reliable, automated systems and I like breaking them (responsibly) to understand risk.",
   openGraph: {
     title: "Jaiman Sharma | Cybersecurity + Software Engineering - Automation Focused",
     description:
-      "Bachelor of Computing (Honours) @ Queen's with focuses in (Cybersecurity + AI). Cloud Security Intern at Sectra (Summer 2025). Building automated, reliable systems.",
+      "Bachelor of Computing (Honours) @ Queen's with focuses in (Cybersecurity + AI). Cloud Security Intern at Sectra AB (Jun–Aug 2025, Mississauga, ON). Building automated, reliable systems.",
     type: "website",
   },
 };

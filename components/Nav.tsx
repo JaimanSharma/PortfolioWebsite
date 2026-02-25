@@ -56,7 +56,7 @@ export default function Nav() {
           {/* Right: Resume + Social Icons */}
           <div className="flex items-center gap-4">
             <Link
-              href="/resume.pdf"
+              href="/JaimanSharmaResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 text-sm font-medium text-text-primary border border-border rounded-lg hover:bg-highlight hover:border-accent/50 transition-all duration-200"
